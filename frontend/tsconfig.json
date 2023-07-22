@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "module": "ESNext",
+        "sourceMap": true
+    },
+    "include": [
+        "src"
+    ]
+}
